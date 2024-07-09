@@ -170,6 +170,7 @@ section.sobre{
 
 section.sobre .flex{
     align-items: center;
+    justify-content: center;
     gap: 60px;
 }
 
