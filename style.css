@@ -60,6 +60,11 @@ header{
     padding: 40px 4%;
 }
 
+header .logo {
+    color: #fff;
+    text-align: center;
+}
+
 header > .interface{
     display: flex;
     align-items: center;
